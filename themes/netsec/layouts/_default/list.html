@@ -1,0 +1,16 @@
+{{ partial "head" }}
+
+	{{ range .Pages.ByDate.Reverse }}
+
+	<h3 class="title"><a href="{{ .Permalink }}">{{ .Params.title | humanize | title }}</a></h3>
+	<p class="meta">
+		{{.Params.date.Format "2006 January 2" }}
+		<br > 
+		{{ if .Params.tags }}
+			{{ with .Params.tags }} {{range .}} (<a href="/tags/{{.}}">{{.}}</a>) {{end}}
+			{{end}}
+		{{end}}
+	</p>
+{{ end }}
+
+{{ partial "footer" }}
