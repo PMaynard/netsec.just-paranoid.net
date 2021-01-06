@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NetSec</title>
+    <link>https://netsec.just-paranoid.net/</link>
+    <description>Recent content on NetSec</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://netsec.just-paranoid.net/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://netsec.just-paranoid.net/about/</link>
+      <pubDate>Mon, 28 Dec 2020 23:26:00 +0000</pubDate>
+      
+      <guid>https://netsec.just-paranoid.net/about/</guid>
+      <description>An academic reading group focused on network security.
+Remotely held on Google Meet at 19:00UTC every Friday.
+iCalendar Link - So you can add it to your diary.
+Suggested Reading A list of top rated conferences and journals:
+ Passive and Active Measurement Conference Latin-American Conference on Communications International Conference on Networks International Conference on Network Protocols Cyber Security Experimentation and Test Hot Topics in Networks (Proceedings) International Journal of Network Security (Proceedings) International Conference on Security and Privacy in Communication Networks (Proceedings)  This is a work in progress and is regularly updated.</description>
+    </item>
+    
+    <item>
+      <title>Acta #008</title>
+      <link>https://netsec.just-paranoid.net/acta/2020-008/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsec.just-paranoid.net/acta/2020-008/</guid>
+      <description>The agenda:
+ Malialis, K., &amp;amp; Kudenko, D. (2015). Distributed response to network intrusions using multiagent reinforcement learning. Engineering Applications of Artificial Intelligence, 41, 270&amp;ndash;284. doi:10.1016/j.engappai.2015.01.013 [sci-hub link] Tomic, I., &amp;amp; McCann, J. A. (2017). A Survey of Potential Security Issues in Existing Wireless Sensor Network Protocols. IEEE Internet of Things Journal, 4(6), 1910&amp;ndash;1923. doi:10.1109/jiot.2017.2749883 [sci-hub link] Krishnamurthy, P., Karri, R., &amp;amp; Khorrami, F. (2019). Anomaly Detection in Real-Time Multi-Threaded Processes Using Hardware Performance Counters.</description>
+    </item>
+    
+    <item>
+      <title>Acta #007</title>
+      <link>https://netsec.just-paranoid.net/acta/2020-007/</link>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsec.just-paranoid.net/acta/2020-007/</guid>
+      <description>The agenda:
+ Tor Traffic Identification Stealing, Spying, and Abusing: Consequences of Attacks on Internet of Things Devices NetChain: Scale-Free Sub-RTT Coordination  </description>
+    </item>
+    
+    <item>
+      <title>Acata #006</title>
+      <link>https://netsec.just-paranoid.net/acta/2019-006/</link>
+      <pubDate>Tue, 10 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsec.just-paranoid.net/acta/2019-006/</guid>
+      <description>The agenda:
+ Threat Analysis for Wearable Health Devices and Environment Monitoring Internet of Things Integration System Robustifying Network Protocols with Adversarial Examples  </description>
+    </item>
+    
+    <item>
+      <title>Acta #005</title>
+      <link>https://netsec.just-paranoid.net/acta/2019-005/</link>
+      <pubDate>Sun, 10 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsec.just-paranoid.net/acta/2019-005/</guid>
+      <description>The agenda:
+ An Efficient Opportunistic Routing Protocol for ICN Dynamic Optimal Countermeasure Selection for Intrusion Response System RESTful HTTPS over Zigbee: Why and how?  </description>
+    </item>
+    
+    <item>
+      <title>Acta #004</title>
+      <link>https://netsec.just-paranoid.net/acta/2019-004/</link>
+      <pubDate>Wed, 10 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsec.just-paranoid.net/acta/2019-004/</guid>
+      <description>The agenda:
+ Towards a Cyber Defense Framework for SCADA Systems Based on Power Consumption Monitoring Situational Awareness for security adaptation in Industrial Control Systems A Multi-Classifier Network-Based Crypto Ransomware Detection System: A Case Study of Locky Ransomware  </description>
+    </item>
+    
+    <item>
+      <title>Acta #003</title>
+      <link>https://netsec.just-paranoid.net/acta/2019-003/</link>
+      <pubDate>Wed, 05 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsec.just-paranoid.net/acta/2019-003/</guid>
+      <description>The agenda:
+ WADI: a water distribution testbed for research in the design of secure cyber physical systems Towards Understanding Man-on-the-Side Attacks (MotS) in SCADA Networks  </description>
+    </item>
+    
+    <item>
+      <title>Acta #002</title>
+      <link>https://netsec.just-paranoid.net/acta/2019-002/</link>
+      <pubDate>Fri, 05 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsec.just-paranoid.net/acta/2019-002/</guid>
+      <description>The agenda:
+ Blockchain Radio Access Network (B-RAN): Towards Decentralized Secure Radio Access Paradigm A Re-evaluation of Intrusion Detection Accuracy: Alternative Evaluation Strategy Towards Malware Detection via CPU Power Consumption: Data Collection Design and Analytics  </description>
+    </item>
+    
+    <item>
+      <title>Acta #001</title>
+      <link>https://netsec.just-paranoid.net/acta/2019-001/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsec.just-paranoid.net/acta/2019-001/</guid>
+      <description>After last weeks meeting, we decided each meeting we will discuss three papers.
+The agenda:
+ A Deep Learning Approach to Network Intrusion Detection Implementing Zero Trust Cloud Networks with Transport Access Control and First Packet Authentication Intelligent Security Measures for Smart Cyber-Physical Systems  </description>
+    </item>
+    
+  </channel>
+</rss>

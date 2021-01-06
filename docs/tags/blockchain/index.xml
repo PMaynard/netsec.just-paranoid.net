@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blockchain on NetSec</title>
+    <link>https://netsec.just-paranoid.net/tags/blockchain/</link>
+    <description>Recent content in Blockchain on NetSec</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 05 Apr 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://netsec.just-paranoid.net/tags/blockchain/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Acta #002</title>
+      <link>https://netsec.just-paranoid.net/acta/2019-002/</link>
+      <pubDate>Fri, 05 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsec.just-paranoid.net/acta/2019-002/</guid>
+      <description>The agenda:
+ Blockchain Radio Access Network (B-RAN): Towards Decentralized Secure Radio Access Paradigm A Re-evaluation of Intrusion Detection Accuracy: Alternative Evaluation Strategy Towards Malware Detection via CPU Power Consumption: Data Collection Design and Analytics  </description>
+    </item>
+    
+  </channel>
+</rss>

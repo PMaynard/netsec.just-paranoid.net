@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wireless Sensor on NetSec</title>
+    <link>https://netsec.just-paranoid.net/tags/wireless-sensor/</link>
+    <description>Recent content in Wireless Sensor on NetSec</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://netsec.just-paranoid.net/tags/wireless-sensor/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Acta #008</title>
+      <link>https://netsec.just-paranoid.net/acta/2020-008/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsec.just-paranoid.net/acta/2020-008/</guid>
+      <description>The agenda:
+ Malialis, K., &amp;amp; Kudenko, D. (2015). Distributed response to network intrusions using multiagent reinforcement learning. Engineering Applications of Artificial Intelligence, 41, 270&amp;ndash;284. doi:10.1016/j.engappai.2015.01.013 [sci-hub link] Tomic, I., &amp;amp; McCann, J. A. (2017). A Survey of Potential Security Issues in Existing Wireless Sensor Network Protocols. IEEE Internet of Things Journal, 4(6), 1910&amp;ndash;1923. doi:10.1109/jiot.2017.2749883 [sci-hub link] Krishnamurthy, P., Karri, R., &amp;amp; Khorrami, F. (2019). Anomaly Detection in Real-Time Multi-Threaded Processes Using Hardware Performance Counters.</description>
+    </item>
+    
+  </channel>
+</rss>

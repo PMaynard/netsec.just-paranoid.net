@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on NetSec</title>
+    <link>https://netsec.just-paranoid.net/tags/</link>
+    <description>Recent content in Tags on NetSec</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://netsec.just-paranoid.net/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reinforcemenet Learning</title>
+      <link>https://netsec.just-paranoid.net/tags/reinforcemenet-learning/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsec.just-paranoid.net/tags/reinforcemenet-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wireless Sensor</title>
+      <link>https://netsec.just-paranoid.net/tags/wireless-sensor/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsec.just-paranoid.net/tags/wireless-sensor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IoT</title>
+      <link>https://netsec.just-paranoid.net/tags/iot/</link>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsec.just-paranoid.net/tags/iot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TOR Traffic</title>
+      <link>https://netsec.just-paranoid.net/tags/tor-traffic/</link>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsec.just-paranoid.net/tags/tor-traffic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robustifying Network Protocols</title>
+      <link>https://netsec.just-paranoid.net/tags/robustifying-network-protocols/</link>
+      <pubDate>Tue, 10 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsec.just-paranoid.net/tags/robustifying-network-protocols/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wearable Health Devices</title>
+      <link>https://netsec.just-paranoid.net/tags/wearable-health-devices/</link>
+      <pubDate>Tue, 10 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsec.just-paranoid.net/tags/wearable-health-devices/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HTTPS</title>
+      <link>https://netsec.just-paranoid.net/tags/https/</link>
+      <pubDate>Sun, 10 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsec.just-paranoid.net/tags/https/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ICN Routing</title>
+      <link>https://netsec.just-paranoid.net/tags/icn-routing/</link>
+      <pubDate>Sun, 10 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsec.just-paranoid.net/tags/icn-routing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intrusion Response System</title>
+      <link>https://netsec.just-paranoid.net/tags/intrusion-response-system/</link>
+      <pubDate>Sun, 10 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsec.just-paranoid.net/tags/intrusion-response-system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zigbee</title>
+      <link>https://netsec.just-paranoid.net/tags/zigbee/</link>
+      <pubDate>Sun, 10 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsec.just-paranoid.net/tags/zigbee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ICS</title>
+      <link>https://netsec.just-paranoid.net/tags/ics/</link>
+      <pubDate>Wed, 10 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsec.just-paranoid.net/tags/ics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Classifier</title>
+      <link>https://netsec.just-paranoid.net/tags/multi-classifier/</link>
+      <pubDate>Wed, 10 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsec.just-paranoid.net/tags/multi-classifier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Power Consumption</title>
+      <link>https://netsec.just-paranoid.net/tags/power-consumption/</link>
+      <pubDate>Wed, 10 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsec.just-paranoid.net/tags/power-consumption/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Randomware</title>
+      <link>https://netsec.just-paranoid.net/tags/randomware/</link>
+      <pubDate>Wed, 10 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsec.just-paranoid.net/tags/randomware/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SCADA</title>
+      <link>https://netsec.just-paranoid.net/tags/scada/</link>
+      <pubDate>Wed, 10 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsec.just-paranoid.net/tags/scada/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Situational Awareness</title>
+      <link>https://netsec.just-paranoid.net/tags/situational-awareness/</link>
+      <pubDate>Wed, 10 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsec.just-paranoid.net/tags/situational-awareness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ICS Testbed</title>
+      <link>https://netsec.just-paranoid.net/tags/ics-testbed/</link>
+      <pubDate>Wed, 05 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsec.just-paranoid.net/tags/ics-testbed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Man-on-the-Side Attack</title>
+      <link>https://netsec.just-paranoid.net/tags/man-on-the-side-attack/</link>
+      <pubDate>Wed, 05 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsec.just-paranoid.net/tags/man-on-the-side-attack/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MotS</title>
+      <link>https://netsec.just-paranoid.net/tags/mots/</link>
+      <pubDate>Wed, 05 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsec.just-paranoid.net/tags/mots/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blockchain</title>
+      <link>https://netsec.just-paranoid.net/tags/blockchain/</link>
+      <pubDate>Fri, 05 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsec.just-paranoid.net/tags/blockchain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dection Accuracy</title>
+      <link>https://netsec.just-paranoid.net/tags/dection-accuracy/</link>
+      <pubDate>Fri, 05 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsec.just-paranoid.net/tags/dection-accuracy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning</title>
+      <link>https://netsec.just-paranoid.net/tags/deep-learning/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsec.just-paranoid.net/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IDS</title>
+      <link>https://netsec.just-paranoid.net/tags/ids/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsec.just-paranoid.net/tags/ids/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zero-Trust</title>
+      <link>https://netsec.just-paranoid.net/tags/zero-trust/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsec.just-paranoid.net/tags/zero-trust/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

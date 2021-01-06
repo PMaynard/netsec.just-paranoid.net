@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ICS Testbed on NetSec</title>
+    <link>https://netsec.just-paranoid.net/tags/ics-testbed/</link>
+    <description>Recent content in ICS Testbed on NetSec</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 05 Jun 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://netsec.just-paranoid.net/tags/ics-testbed/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Acta #003</title>
+      <link>https://netsec.just-paranoid.net/acta/2019-003/</link>
+      <pubDate>Wed, 05 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsec.just-paranoid.net/acta/2019-003/</guid>
+      <description>The agenda:
+ WADI: a water distribution testbed for research in the design of secure cyber physical systems Towards Understanding Man-on-the-Side Attacks (MotS) in SCADA Networks  </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,5 @@
+baseURL = "https://netsec.just-paranoid.net/"
+languageCode = "en-us"
+title = "NetSec"
+theme = "netsec"
+publishDir = "docs"

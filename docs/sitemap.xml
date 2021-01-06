@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://netsec.just-paranoid.net/about/</loc>
+    <lastmod>2020-12-28T23:26:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://netsec.just-paranoid.net/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://netsec.just-paranoid.net/acta/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://netsec.just-paranoid.net/acta/2020-008/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://netsec.just-paranoid.net/tags/reinforcemenet-learning/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://netsec.just-paranoid.net/tags/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://netsec.just-paranoid.net/tags/wireless-sensor/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://netsec.just-paranoid.net/acta/2020-007/</loc>
+    <lastmod>2020-01-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://netsec.just-paranoid.net/tags/iot/</loc>
+    <lastmod>2020-01-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://netsec.just-paranoid.net/tags/tor-traffic/</loc>
+    <lastmod>2020-01-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://netsec.just-paranoid.net/acta/2019-006/</loc>
+    <lastmod>2019-12-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://netsec.just-paranoid.net/tags/robustifying-network-protocols/</loc>
+    <lastmod>2019-12-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://netsec.just-paranoid.net/tags/wearable-health-devices/</loc>
+    <lastmod>2019-12-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://netsec.just-paranoid.net/acta/2019-005/</loc>
+    <lastmod>2019-11-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://netsec.just-paranoid.net/tags/https/</loc>
+    <lastmod>2019-11-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://netsec.just-paranoid.net/tags/icn-routing/</loc>
+    <lastmod>2019-11-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://netsec.just-paranoid.net/tags/intrusion-response-system/</loc>
+    <lastmod>2019-11-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://netsec.just-paranoid.net/tags/zigbee/</loc>
+    <lastmod>2019-11-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://netsec.just-paranoid.net/acta/2019-004/</loc>
+    <lastmod>2019-07-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://netsec.just-paranoid.net/tags/ics/</loc>
+    <lastmod>2019-07-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://netsec.just-paranoid.net/tags/multi-classifier/</loc>
+    <lastmod>2019-07-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://netsec.just-paranoid.net/tags/power-consumption/</loc>
+    <lastmod>2019-07-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://netsec.just-paranoid.net/tags/randomware/</loc>
+    <lastmod>2019-07-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://netsec.just-paranoid.net/tags/scada/</loc>
+    <lastmod>2019-07-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://netsec.just-paranoid.net/tags/situational-awareness/</loc>
+    <lastmod>2019-07-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://netsec.just-paranoid.net/acta/2019-003/</loc>
+    <lastmod>2019-06-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://netsec.just-paranoid.net/tags/ics-testbed/</loc>
+    <lastmod>2019-06-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://netsec.just-paranoid.net/tags/man-on-the-side-attack/</loc>
+    <lastmod>2019-06-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://netsec.just-paranoid.net/tags/mots/</loc>
+    <lastmod>2019-06-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://netsec.just-paranoid.net/acta/2019-002/</loc>
+    <lastmod>2019-04-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://netsec.just-paranoid.net/tags/blockchain/</loc>
+    <lastmod>2019-04-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://netsec.just-paranoid.net/tags/dection-accuracy/</loc>
+    <lastmod>2019-04-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://netsec.just-paranoid.net/acta/2019-001/</loc>
+    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://netsec.just-paranoid.net/tags/deep-learning/</loc>
+    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://netsec.just-paranoid.net/tags/ids/</loc>
+    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://netsec.just-paranoid.net/tags/zero-trust/</loc>
+    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://netsec.just-paranoid.net/categories/</loc>
+  </url>
+  
+</urlset>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Robustifying Network Protocols on NetSec</title>
+    <link>https://netsec.just-paranoid.net/tags/robustifying-network-protocols/</link>
+    <description>Recent content in Robustifying Network Protocols on NetSec</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 10 Dec 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://netsec.just-paranoid.net/tags/robustifying-network-protocols/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Acata #006</title>
+      <link>https://netsec.just-paranoid.net/acta/2019-006/</link>
+      <pubDate>Tue, 10 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsec.just-paranoid.net/acta/2019-006/</guid>
+      <description>The agenda:
+ Threat Analysis for Wearable Health Devices and Environment Monitoring Internet of Things Integration System Robustifying Network Protocols with Adversarial Examples  </description>
+    </item>
+    
+  </channel>
+</rss>
