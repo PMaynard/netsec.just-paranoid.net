@@ -6,7 +6,19 @@
     <description>Recent content on NetSec</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 22 Jan 2021 19:00:00 +0000</lastBuildDate><atom:link href="https://netsec.just-paranoid.net/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 29 Jan 2021 19:00:00 +0000</lastBuildDate><atom:link href="https://netsec.just-paranoid.net/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Acta #011</title>
+      <link>https://netsec.just-paranoid.net/acta/2021-011/</link>
+      <pubDate>Fri, 29 Jan 2021 19:00:00 +0000</pubDate>
+      
+      <guid>https://netsec.just-paranoid.net/acta/2021-011/</guid>
+      <description>Keystone: An Open Framework for Architecting Trusted Execution Environments
+Proceedings of the Fifteenth European Conference on Computer Systems (EuroSys) 2020 [PDF, Info Slides]
+Abstract
+ Trusted execution environments (TEEs) see rising use in devices from embedded sensors to cloud servers and encompass a range of cost, power constraints, and security threat model choices. On the other hand, each of the current vendor-specific TEEs makes a fixed set of trade-offs with little room for customization.</description>
+    </item>
+    
     <item>
       <title>Acta #010</title>
       <link>https://netsec.just-paranoid.net/acta/2021-010/</link>

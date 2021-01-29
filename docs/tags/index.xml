@@ -6,7 +6,25 @@
     <description>Recent content in Tags on NetSec</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 22 Jan 2021 19:00:00 +0000</lastBuildDate><atom:link href="https://netsec.just-paranoid.net/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 29 Jan 2021 19:00:00 +0000</lastBuildDate><atom:link href="https://netsec.just-paranoid.net/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TEE</title>
+      <link>https://netsec.just-paranoid.net/tags/tee/</link>
+      <pubDate>Fri, 29 Jan 2021 19:00:00 +0000</pubDate>
+      
+      <guid>https://netsec.just-paranoid.net/tags/tee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trusted Execution Environments</title>
+      <link>https://netsec.just-paranoid.net/tags/trusted-execution-environments/</link>
+      <pubDate>Fri, 29 Jan 2021 19:00:00 +0000</pubDate>
+      
+      <guid>https://netsec.just-paranoid.net/tags/trusted-execution-environments/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Censorship</title>
       <link>https://netsec.just-paranoid.net/tags/censorship/</link>

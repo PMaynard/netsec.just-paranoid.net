@@ -16,7 +16,7 @@
       <description>Keystone: An Open Framework for Architecting Trusted Execution Environments
 Proceedings of the Fifteenth European Conference on Computer Systems (EuroSys) 2020 [PDF, Info Slides]
 Abstract
- How do we welcome you to the proceedings for a conference, intended for Heraklion in April, which will now be a virtual event, held around the globe? Let us hope the silver lining is that an even larger community will be able to enjoy the fantastic work that our authors put together for us.</description>
+ Trusted execution environments (TEEs) see rising use in devices from embedded sensors to cloud servers and encompass a range of cost, power constraints, and security threat model choices. On the other hand, each of the current vendor-specific TEEs makes a fixed set of trade-offs with little room for customization.</description>
     </item>
     
   </channel>
