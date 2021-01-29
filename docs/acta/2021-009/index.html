@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta name="description" content="NetSec" />
+	
+	<title>NetSec</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+
+	<style>
+		@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300&display=swap');
+
+		body {
+			font-family: 'Merriweather', serif;
+			max-width: 55ch;
+			margin-left: 7rem;
+			margin-right: auto;
+		}
+		.head {
+			margin-bottom: 0; padding-bottom: 0; 
+		}
+
+		.head a {
+			text-decoration: none;
+		}
+
+		.subhead {
+			vertical-align: middle;
+			font-size: 1rem;
+			margin-top: 0;
+		}
+
+		@media screen and (max-width: 55ch) {
+			body {
+				margin-left: auto;
+				padding-left: 5px;
+			}
+		}
+
+		p {
+			line-height: 1.60;
+		}
+
+		p.meta {
+			 
+		}
+
+		p.meta a {
+			text-decoration-thickness: 1px;
+		}
+
+		a {
+			color: #000;
+			text-decoration: underline;
+			text-decoration-color: #D74E45;
+		}
+
+		p a {
+			text-decoration-thickness: 3px;
+		}
+
+		hr { 
+			border: none;
+			color: #D74E45;
+			background-color: #D74E45;
+			height: 2px;
+			width: 20%;
+		}
+
+		blockquote {
+			color: gray;
+		}
+	</style>
+
+
+</head>
+
+<body>
+<div class="head subhead" style="text-align: right; float:right;">
+			<a href="/">Home</a> // <a href="/about">About</a>
+		</div>
+<div class="head">
+	<a href='/'>
+		<h1>NetSec <span class="subhead">◬ est. February 2019.</span></h1>
+	</a>
+</div>
+
+
+
+<h1 class="title"><a href="https://netsec.just-paranoid.net/acta/2021-009/">Acta #009</a></h1>
+<p class="meta">
+	<p class="meta">
+		2021 January 8
+		<br > 
+		
+			  (<a href="/tags/Side%20Channel">Side Channel</a>)  (<a href="/tags/Timing%20Attack">Timing Attack</a>)  (<a href="/tags/USENIX">USENIX</a>)  (<a href="/tags/CVE-2021-3011">CVE-2021-3011</a>) 
+			
+		
+	</p>
+</p>
+
+<p><strong>Timeless Timing Attacks: Exploiting Concurrency to Leak Secrets over Remote Connections</strong><br>
+29th USENIX Security Symposium, 2020 [<a href="https://www.usenix.org/system/files/sec20-van_goethem.pdf">PDF</a>, <a href="https://www.usenix.org/conference/usenixsecurity20/presentation/van-goethem">Info</a>]</p>
+<p>Abstract</p>
+<blockquote>
+<p>To perform successful remote timing attacks, an adversarytypically collects a series of network timing measurementsand subsequently performs statistical analysis to reveal a dif-ference in execution time. The number of measurements thatmust be obtained largely depends on the amount of jitter thatthe requests and responses are subjected to. In remote tim-ing attacks, a significant source of jitter is the network pathbetween the adversary and the targeted server, making it prac-tically infeasible to successfully exploit timing side-channelsthat exhibit only a small difference in execution time.</p>
+<p>In this paper, we introduce a conceptually novel type of tim-ing attack that leverages the coalescing of packets by networkprotocols and concurrent handling of requests by applica-tions. These concurrency-based timing attacks infer a relativetiming difference by analyzing the order in which responsesare returned, and thus do not rely on any absolute timing in-formation. We show how these attacks result in a 100-foldimprovement over typical timing attacks performed over theInternet, and can accurately detect timing differences as smallas 100ns, similar to attacks launched on a local system. Wedescribe how these timing attacks can be successfully de-ployed against HTTP/2 webservers, Tor onion services, andEAP-pwd, a popular Wi-Fi authentication method.</p>
+</blockquote>
+<p><strong>A Side Journey to Titan: Side-Channel Attack on the Google Titan Security Key</strong><br>
+NinjaLab.io, 2021 [<a href="https://ninjalab.io/wp-content/uploads/2021/01/a_side_journey_to_titan.pdf">PDF</a> <a href="https://ninjalab.io/a-side-journey-to-titan/">Info</a>]</p>
+<p>Abstract</p>
+<blockquote>
+<p>The Google Titan Security Key is a FIDO U2F hardware device proposed by Google (available since July 2018) as a two-factor authentication token to sign in to applications (e.g. your Google account). Our work describes a side-channel attack that targets the Google Titan Security Key’s secure element (the NXP A700X chip) by the observation of its local electromagnetic radiations during ECDSA signatures (the core cryptographic operation of the FIDO U2F protocol). In other words, an attacker can create a clone of a legitimate Google Titan Security Key.</p>
+<p>To understand the NXP ECDSA implementation, find a vulnerability and design a key-recovery attack, we had to make a quick stop on Rhea (NXP J3D081 JavaCard smartcard). Freely available on the web, this product looks very much like the NXP A700X chip and uses the same cryptographic library. Rhea, as an open JavaCard platform, gives us more control to study the ECDSA engine.</p>
+<p>We could then show that the electromagnetic side-channel signal bears partial information about the ECDSA ephemeral key. The sensitive information is recovered with a non-supervised machine learning method and plugged into a customized lattice-based attack scheme.</p>
+<p>Finally, 4000 ECDSA observations were enough to recover the (known) secret key on Rhea and validate our attack process. It was then applied on the Google Titan Security Key with success (this time by using 6000 observations) as we were able to extract the long term ECDSA private key linked to a FIDO U2F account created for the experiment.</p>
+</blockquote>
+
+
+<hr style="width: 100%">
+<p style="text-align: center">Last Updated on 29 Jan 2021 (CC BY-SA 4.0)</p>
+</body>
+</html>

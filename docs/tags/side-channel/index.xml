@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Side Channel on NetSec</title>
+    <link>https://netsec.just-paranoid.net/tags/side-channel/</link>
+    <description>Recent content in Side Channel on NetSec</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 08 Jan 2021 19:00:00 +0000</lastBuildDate><atom:link href="https://netsec.just-paranoid.net/tags/side-channel/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Acta #009</title>
+      <link>https://netsec.just-paranoid.net/acta/2021-009/</link>
+      <pubDate>Fri, 08 Jan 2021 19:00:00 +0000</pubDate>
+      
+      <guid>https://netsec.just-paranoid.net/acta/2021-009/</guid>
+      <description>Timeless Timing Attacks: Exploiting Concurrency to Leak Secrets over Remote Connections
+29th USENIX Security Symposium, 2020 [PDF, Info]
+Abstract
+ To perform successful remote timing attacks, an adversarytypically collects a series of network timing measurementsand subsequently performs statistical analysis to reveal a dif-ference in execution time. The number of measurements thatmust be obtained largely depends on the amount of jitter thatthe requests and responses are subjected to. In remote tim-ing attacks, a significant source of jitter is the network pathbetween the adversary and the targeted server, making it prac-tically infeasible to successfully exploit timing side-channelsthat exhibit only a small difference in execution time.</description>
+    </item>
+    
+  </channel>
+</rss>

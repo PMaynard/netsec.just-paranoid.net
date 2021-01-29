@@ -68,6 +68,10 @@
 			height: 2px;
 			width: 20%;
 		}
+
+		blockquote {
+			color: gray;
+		}
 	</style>
 
 
@@ -104,6 +108,16 @@
 
 
 <a href="/tags/blockchain" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;" >blockchain (1)</a>
+
+
+
+
+<a href="/tags/censorship" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;" >censorship (1)</a>
+
+
+
+
+<a href="/tags/cve-2021-3011" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;" >cve-2021-3011 (1)</a>
 
 
 
@@ -183,12 +197,42 @@
 
 
 
+<a href="/tags/shadowsocks" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;" >shadowsocks (1)</a>
+
+
+
+
+<a href="/tags/side-channel" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;" >side-channel (1)</a>
+
+
+
+
 <a href="/tags/situational-awareness" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;" >situational-awareness (1)</a>
 
 
 
 
+<a href="/tags/tee" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;" >tee (1)</a>
+
+
+
+
+<a href="/tags/timing-attack" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;" >timing-attack (1)</a>
+
+
+
+
 <a href="/tags/tor-traffic" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;" >tor-traffic (1)</a>
+
+
+
+
+<a href="/tags/trusted-execution-environments" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;" >trusted-execution-environments (1)</a>
+
+
+
+
+<a href="/tags/usenix" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;" >usenix (1)</a>
 
 
 
@@ -213,6 +257,73 @@
 
 </div>
 
+
+
+	<hr style="width: 100%">
+	<h1 class="title"><a href="https://netsec.just-paranoid.net/acta/2021-011/">Acta #011</a></h1>
+	<p class="meta">
+		2021 January 29
+		<br > 
+		
+			  (<a href="/tags/Trusted%20Execution%20Environments">Trusted Execution Environments</a>)  (<a href="/tags/TEE">TEE</a>) 
+			
+		
+	</p>
+	<p><strong>Keystone: An Open Framework for Architecting Trusted Execution Environments</strong><br>
+Proceedings of the Fifteenth European Conference on Computer Systems (EuroSys) 2020 [<a href="https://dl.acm.org/doi/abs/10.1145/3342195.3387532">PDF</a>, <a href="https://keystone-enclave.org/">Info</a> <a href="https://keystone-enclave.org/open-source-enclaves-workshop/slides/OSEW19_DayeolLee_UCBerkeley.pdf">Slides</a>]</p>
+<p>Abstract</p>
+<blockquote>
+<p>How do we welcome you to the proceedings for a conference, intended for Heraklion in April, which will now be a virtual event, held around the globe? Let us hope the silver lining is that an even larger community will be able to enjoy the fantastic work that our authors put together for us. We certainly live in interesting times!</p>
+<p>Let&rsquo;s take a moment to acknowledge that the work our community does is serving the world today in an unprecedented manner. Our technology is enabling the greatest experiment in distance education ever undertaken; the fruits of our labor keep people, isolated in their own homes, connected; our systems provide access to instantaneous information and data. The work we do has never been more important, so on that note, let us welcome you to the technical program for the 2020 EuroSys. Regardless of how or when the conference takes place, we are honored to present this year&rsquo;s program.</p>
+</blockquote>
+
+
+	<hr style="width: 100%">
+	<h1 class="title"><a href="https://netsec.just-paranoid.net/acta/2021-010/">Acta #010</a></h1>
+	<p class="meta">
+		2021 January 22
+		<br > 
+		
+			  (<a href="/tags/Shadowsocks">Shadowsocks</a>)  (<a href="/tags/Censorship">Censorship</a>) 
+			
+		
+	</p>
+	<p><strong>How China Detects and Blocks Shadowsocks</strong><br>
+Internet Measurement Conference (IMC) 2020 [<a href="https://gfw.report/publications/imc20/data/paper/shadowsocks.pdf">PDF</a>, <a href="https://gfw.report/talks/imc20/en/">Info</a>]</p>
+<p>Abstract</p>
+<blockquote>
+<p>Shadowsocks is one of the most popular circumvention tools inChina. Since May 2019, there have been numerous anecdotal reportsof the blocking of Shadowsocks from Chinese users. In this study,we reveal how the Great Firewall of China (GFW) detects and blocksShadowsocks and its variants. Using measurement experiments,we find that the GFW uses the length and entropy of the first datapacket in each connection to identify probable Shadowsocks traffic,then sends seven different types of active probes, in different stages,to the corresponding servers to test whether its guess is correct.</p>
+<p>We developed a prober simulator to analyze the effect of differ-ent types of probes on various Shadowsocks implementations, andused it to infer what vulnerabilities are exploited by the censor. Wefingerprinted the probers and found differences relative to previ-ous work on active probing. A network-level side channel revealsthat the probers, which use thousands of IP addresses, are likelycontrolled by a set of centralized structures.</p>
+<p>Based on our gained understanding, we present a temporaryworkaround that successfully mitigates the traffic analysis attack bythe GFW. We further discuss essential strategies to defend againstactive probing. We responsibly disclosed our findings and sugges-tions to Shadowsocks developers, which has led to more censorship-resistant tools.</p>
+</blockquote>
+
+
+	<hr style="width: 100%">
+	<h1 class="title"><a href="https://netsec.just-paranoid.net/acta/2021-009/">Acta #009</a></h1>
+	<p class="meta">
+		2021 January 8
+		<br > 
+		
+			  (<a href="/tags/Side%20Channel">Side Channel</a>)  (<a href="/tags/Timing%20Attack">Timing Attack</a>)  (<a href="/tags/USENIX">USENIX</a>)  (<a href="/tags/CVE-2021-3011">CVE-2021-3011</a>) 
+			
+		
+	</p>
+	<p><strong>Timeless Timing Attacks: Exploiting Concurrency to Leak Secrets over Remote Connections</strong><br>
+29th USENIX Security Symposium, 2020 [<a href="https://www.usenix.org/system/files/sec20-van_goethem.pdf">PDF</a>, <a href="https://www.usenix.org/conference/usenixsecurity20/presentation/van-goethem">Info</a>]</p>
+<p>Abstract</p>
+<blockquote>
+<p>To perform successful remote timing attacks, an adversarytypically collects a series of network timing measurementsand subsequently performs statistical analysis to reveal a dif-ference in execution time. The number of measurements thatmust be obtained largely depends on the amount of jitter thatthe requests and responses are subjected to. In remote tim-ing attacks, a significant source of jitter is the network pathbetween the adversary and the targeted server, making it prac-tically infeasible to successfully exploit timing side-channelsthat exhibit only a small difference in execution time.</p>
+<p>In this paper, we introduce a conceptually novel type of tim-ing attack that leverages the coalescing of packets by networkprotocols and concurrent handling of requests by applica-tions. These concurrency-based timing attacks infer a relativetiming difference by analyzing the order in which responsesare returned, and thus do not rely on any absolute timing in-formation. We show how these attacks result in a 100-foldimprovement over typical timing attacks performed over theInternet, and can accurately detect timing differences as smallas 100ns, similar to attacks launched on a local system. Wedescribe how these timing attacks can be successfully de-ployed against HTTP/2 webservers, Tor onion services, andEAP-pwd, a popular Wi-Fi authentication method.</p>
+</blockquote>
+<p><strong>A Side Journey to Titan: Side-Channel Attack on the Google Titan Security Key</strong><br>
+NinjaLab.io, 2021 [<a href="https://ninjalab.io/wp-content/uploads/2021/01/a_side_journey_to_titan.pdf">PDF</a> <a href="https://ninjalab.io/a-side-journey-to-titan/">Info</a>]</p>
+<p>Abstract</p>
+<blockquote>
+<p>The Google Titan Security Key is a FIDO U2F hardware device proposed by Google (available since July 2018) as a two-factor authentication token to sign in to applications (e.g. your Google account). Our work describes a side-channel attack that targets the Google Titan Security Key’s secure element (the NXP A700X chip) by the observation of its local electromagnetic radiations during ECDSA signatures (the core cryptographic operation of the FIDO U2F protocol). In other words, an attacker can create a clone of a legitimate Google Titan Security Key.</p>
+<p>To understand the NXP ECDSA implementation, find a vulnerability and design a key-recovery attack, we had to make a quick stop on Rhea (NXP J3D081 JavaCard smartcard). Freely available on the web, this product looks very much like the NXP A700X chip and uses the same cryptographic library. Rhea, as an open JavaCard platform, gives us more control to study the ECDSA engine.</p>
+<p>We could then show that the electromagnetic side-channel signal bears partial information about the ECDSA ephemeral key. The sensitive information is recovered with a non-supervised machine learning method and plugged into a customized lattice-based attack scheme.</p>
+<p>Finally, 4000 ECDSA observations were enough to recover the (known) secret key on Rhea and validate our attack process. It was then applied on the Google Titan Security Key with success (this time by using 6000 observations) as we were able to extract the long term ECDSA private key linked to a FIDO U2F account created for the experiment.</p>
+</blockquote>
 
 
 	<hr style="width: 100%">
@@ -373,6 +484,6 @@ Ransomware</a></li>
 
 
 <hr style="width: 100%">
-<p style="text-align: center">Last Updated on 6 Jan 2021 (CC BY-SA 4.0)</p>
+<p style="text-align: center">Last Updated on 29 Jan 2021 (CC BY-SA 4.0)</p>
 </body>
 </html>

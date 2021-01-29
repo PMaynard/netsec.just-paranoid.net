@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shadowsocks on NetSec</title>
+    <link>https://netsec.just-paranoid.net/tags/shadowsocks/</link>
+    <description>Recent content in Shadowsocks on NetSec</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 22 Jan 2021 19:00:00 +0000</lastBuildDate><atom:link href="https://netsec.just-paranoid.net/tags/shadowsocks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Acta #010</title>
+      <link>https://netsec.just-paranoid.net/acta/2021-010/</link>
+      <pubDate>Fri, 22 Jan 2021 19:00:00 +0000</pubDate>
+      
+      <guid>https://netsec.just-paranoid.net/acta/2021-010/</guid>
+      <description>How China Detects and Blocks Shadowsocks
+Internet Measurement Conference (IMC) 2020 [PDF, Info]
+Abstract
+ Shadowsocks is one of the most popular circumvention tools inChina. Since May 2019, there have been numerous anecdotal reportsof the blocking of Shadowsocks from Chinese users. In this study,we reveal how the Great Firewall of China (GFW) detects and blocksShadowsocks and its variants. Using measurement experiments,we find that the GFW uses the length and entropy of the first datapacket in each connection to identify probable Shadowsocks traffic,then sends seven different types of active probes, in different stages,to the corresponding servers to test whether its guess is correct.</description>
+    </item>
+    
+  </channel>
+</rss>
