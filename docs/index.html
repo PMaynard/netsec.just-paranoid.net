@@ -97,12 +97,12 @@
 
 
 
+<a href="/tags/scada" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;" >scada (3)</a>
+
+
+
+
 <a href="/tags/power-consumption" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;" >power-consumption (2)</a>
-
-
-
-
-<a href="/tags/scada" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;" >scada (2)</a>
 
 
 
@@ -113,6 +113,11 @@
 
 
 <a href="/tags/censorship" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;" >censorship (1)</a>
+
+
+
+
+<a href="/tags/checked-c" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;" >checked-c (1)</a>
 
 
 
@@ -128,6 +133,11 @@
 
 
 <a href="/tags/deep-learning" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;" >deep-learning (1)</a>
+
+
+
+
+<a href="/tags/freebsd" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;" >freebsd (1)</a>
 
 
 
@@ -157,6 +167,11 @@
 
 
 
+<a href="/tags/iec61499" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;" >iec61499 (1)</a>
+
+
+
+
 <a href="/tags/intrusion-response-system" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;" >intrusion-response-system (1)</a>
 
 
@@ -178,6 +193,11 @@
 
 
 <a href="/tags/multi-classifier" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;" >multi-classifier (1)</a>
+
+
+
+
+<a href="/tags/plc" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;" >plc (1)</a>
 
 
 
@@ -257,6 +277,29 @@
 
 </div>
 
+
+
+	<hr style="width: 100%">
+	<h1 class="title"><a href="https://netsec.just-paranoid.net/acta/2021-012/">Acta #012</a></h1>
+	<p class="meta">
+		2021 February 5
+		<br > 
+		
+			  (<a href="/tags/FreeBSD">FreeBSD</a>)  (<a href="/tags/Checked%20C">Checked C</a>)  (<a href="/tags/SCADA">SCADA</a>)  (<a href="/tags/PLC">PLC</a>)  (<a href="/tags/IEC61499">IEC61499</a>) 
+			
+		
+	</p>
+	<p><strong>Designing Actively Secure, Highly Available Industrial Automation Applications</strong>
+17th International Conference on Industrial Informatics (INDIN2019) [<a href="https://arxiv.org/pdf/2101.01856">PDF</a>]</p>
+<blockquote>
+<p>Programmable Logic Controllers (PLCs) execute critical control software that drives Industrial Automation and Control Systems (IACS). PLCs can become easy targets for cyber-adversaries as they are resource-constrained and are usually built using legacy, less-capable security measures. Security attacks can significantly affect system availability, which is an essential requirement for IACS. We propose a method to make PLC applications more security-aware. Based on the well-known IEC 61499 function blocks standard for developing IACS software, our method allows designers to annotate critical parts of an application during design time. On deployment, these parts of the application are automatically secured using appropriate security mechanisms to detect and prevent attacks. We present a summary of availability attacks on distributed IACS applications that can be mitigated by our proposed method. Security mechanisms are achieved using IEC 61499 Service-Interface Function Blocks (SIFBs) embedding Intrusion Detection and Prevention System (IDPS), added to the application at compile time. This method is more amenable to providing active security protection from attacks on previously unknown (zero-day) vulnerabilities. We test our solution on an IEC 61499 application executing on Wago PFC200 PLCs. Experiments show that we can successfully log and prevent attacks at the application level as well as help the application to gracefully degrade into safe mode, subsequently improving availability.</p>
+</blockquote>
+<p><strong>Refactoring the FreeBSD Kernel with Checked C</strong><br>
+2020 IEEE Secure Development (SecDev) [<a href="https://cs.rochester.edu/u/jzhou41/papers/freebsd_checkedc.pdf">PDF</a>]</p>
+<p>Abstract</p>
+<blockquote>
+<p>Most modern operating system kernels are written in C, making them vulnerable to buffer overflow and buffer over-read attacks. Microsoft has developed an extension to the C language named Checked C which provides new source language constructs that allow the compiler to prevent NULL pointer dereferences and spatial memory safety errors through static analysis and run-time check insertion. We evaluate the use of Checked C on operating system kernel code by refactoring parts of the FreeBSD kernel to use Checked C extensions. We describe our experience refactoring the code that implements system calls and UDP and IP networking. We then evaluate the refactoring effort and the performance of the refactored kernel. It took two undergraduate students approximately three months to refactor the system calls, the network packet (mbuf) utility routines, and parts of the IP and UDP processing code. Our experiments show that using Checked C incurred no performance or code size overheads.</p>
+</blockquote>
 
 
 	<hr style="width: 100%">
@@ -483,6 +526,6 @@ Ransomware</a></li>
 
 
 <hr style="width: 100%">
-<p style="text-align: center">Last Updated on 29 Jan 2021 (CC BY-SA 4.0)</p>
+<p style="text-align: center">Last Updated on 2 Feb 2021 (CC BY-SA 4.0)</p>
 </body>
 </html>
