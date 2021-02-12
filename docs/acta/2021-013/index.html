@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta name="description" content="NetSec" />
+	
+	<title>NetSec</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+
+	<style>
+		@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300&display=swap');
+
+		body {
+			font-family: 'Merriweather', serif;
+			max-width: 55ch;
+			margin-left: 7rem;
+			margin-right: auto;
+		}
+		.head {
+			margin-bottom: 0; padding-bottom: 0; 
+		}
+
+		.head a {
+			text-decoration: none;
+		}
+
+		.subhead {
+			vertical-align: middle;
+			font-size: 1rem;
+			margin-top: 0;
+		}
+
+		.menu {
+			text-align: right; 
+			float:right;
+			font-weight: 700;
+		}
+
+		.menu a:hover {
+			color: #D74E45;
+		}
+
+		@media screen and (max-width: 55ch) {
+			body {
+				margin-left: auto;
+				padding-left: 5px;
+			}
+		}
+
+		p {
+			line-height: 1.60;
+		}
+
+		p.meta {
+			 
+		}
+
+		p.meta a {
+			text-decoration-thickness: 1px;
+		}
+
+		a {
+			color: #000;
+			text-decoration: underline;
+			text-decoration-color: #D74E45;
+		}
+
+		p a {
+			text-decoration-thickness: 3px;
+		}
+
+		hr { 
+			border: none;
+			color: #D74E45;
+			background-color: #D74E45;
+			height: 2px;
+			width: 20%;
+		}
+
+		blockquote {
+			color: gray;
+		}
+	</style>
+
+
+</head>
+
+<body>
+<div class="head subhead menu">
+			<a href="/">Home</a> &#8226; <a href="/about">About</a>
+		</div>
+<div class="head">
+	<a href='/'>
+		<h1>NetSec <span class="subhead">◬ est. February 2019.</span></h1>
+	</a>
+</div>
+
+
+
+<h1 class="title"><a href="https://netsec.just-paranoid.net/acta/2021-013/">Acta #013</a></h1>
+<p class="meta">
+	<p class="meta">
+		2021 February 12
+		<br > 
+		
+			  (<a href="/tags/"></a>) 
+			
+		
+	</p>
+</p>
+
+<p><strong>Its all in a name: detecting and labeling bots by their name</strong>
+Computational and Mathematical Organization Theory (2018) [<a href="https://scihubtw.tw/10.1007/s10588-018-09290-1">PDF</a>, <a href="https://link.springer.com/article/10.1007/s10588-018-09290-1">INFO</a>]</p>
+<blockquote>
+<p>Automated social media bots have existed almost as long as the social media environments they inhabit. Their emergence has triggered numerous research efforts to develop increasingly sophisticated means to detect these accounts. These efforts have resulted in a cat and mouse cycle in which detection algorithms evolve trying to keep up with ever evolving bots. As part of this continued evolution, our research proposes a multi-model ‘tool-box’ approach in order to conduct detection at various tiers of data granularity. To support this toolbox approach this research also uses random string detection applied to user names to filter twitter streams for bot accounts and use this as labeled training data for follow on research.</p>
+</blockquote>
+<p><strong>SymTCP: Eluding Stateful Deep Packet Inspection with Automated Discrepancy Discovery</strong><br>
+Network and Distributed System Security (NDSS), 2020 [<a href="https://www.ndss-symposium.org/wp-content/uploads/2020/02/24083.pdf">PDF</a>]</p>
+<blockquote>
+<p>A key  characteristic  of  commonly  deployed  deep packet inspection (DPI) systems is that they implement a simplified state machine of the network stack that often differs from that of end hosts.  The  discrepancies  between  the  two  state  machines have  been  exploited  to  bypass  such  DPI  based  middleboxes.However,  most  prior  approaches  to  do  so  rely  on  manually crafted adversarial packets, which not only are labor intensive but may not work well across a plurality of DPI-based middleboxes.Our  goal  in  this  work  is  to  develop  an  automated  way  to  craft candidate adversarial packets, targeting TCP implementations in particular. Our approach to achieving this goal hinges on the key insight that while the TCP state machines of DPI implementations are  obscure,  those  of  the  end hosts  are  well  established.  Thus,  in our system SYMTCP, using symbolic execution, we systematically explore   the   TCP   implementation   of   an   end host,   identifying candidate packets that can reach critical points in the code (e.g.,which  causes  the  packets  to  be  accepted  or  dropped/ignored);such  automatically  identified  packets  are  then  fed  through  theDPI  middlebox  to  determine  if  a  discrepancy  is  induced  and the  middlebox  can  be  eluded.</p>
+</blockquote>
+<blockquote>
+<p>We  find  that  our  approach  is extremely effective. It can generate tens of thousands of candidate adversarial packets in less than an hour. When evaluating against multiple state-of-the-art DPI systems such as Zeek and Snort, aswell as a state-level censorship system, viz. the Great Firewall ofChina, we identify not only previously known evasion strategies,but  also  novel  ones  that  were  never  previously  reported  (e.g.,involving   the   urgent   pointer).   The   system   can   be   extended easily towards other combinations of operating systems and DPImiddleboxes, and serves as a valuable tool for testing future DPIs’robustness  against  evasion  attempts.</p>
+</blockquote>
+
+
+<hr style="width: 100%">
+<p style="text-align: center">Last Updated on 12 Feb 2021 (CC BY-SA 4.0)</p>
+</body>
+</html>

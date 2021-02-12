@@ -6,7 +6,17 @@
     <description>Recent content in Acta on NetSec</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 05 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://netsec.just-paranoid.net/acta/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 12 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://netsec.just-paranoid.net/acta/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Acta #013</title>
+      <link>https://netsec.just-paranoid.net/acta/2021-013/</link>
+      <pubDate>Fri, 12 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsec.just-paranoid.net/acta/2021-013/</guid>
+      <description>Its all in a name: detecting and labeling bots by their name Computational and Mathematical Organization Theory (2018) [PDF, INFO]
+ Automated social media bots have existed almost as long as the social media environments they inhabit. Their emergence has triggered numerous research efforts to develop increasingly sophisticated means to detect these accounts. These efforts have resulted in a cat and mouse cycle in which detection algorithms evolve trying to keep up with ever evolving bots.</description>
+    </item>
+    
     <item>
       <title>Acta #012</title>
       <link>https://netsec.just-paranoid.net/acta/2021-012/</link>
