@@ -54,19 +54,6 @@ Abstract
     </item>
     
     <item>
-      <title>About</title>
-      <link>https://netsec.just-paranoid.net/about/</link>
-      <pubDate>Mon, 28 Dec 2020 23:26:00 +0000</pubDate>
-      
-      <guid>https://netsec.just-paranoid.net/about/</guid>
-      <description>An academic reading group focused on network security.
-Remotely held on Google Meet at 19:00UTC every Friday.
-iCalendar Link - So you can add it to your diary.
-Suggested Reading A list of top rated conferences and journals:
- Passive and Active Measurement Conference Latin-American Conference on Communications International Conference on Networks International Conference on Network Protocols Cyber Security Experimentation and Test Hot Topics in Networks (Proceedings) International Journal of Network Security (Proceedings) International Conference on Security and Privacy in Communication Networks (Proceedings)  This is a work in progress and is regularly updated.</description>
-    </item>
-    
-    <item>
       <title>Acta #008</title>
       <link>https://netsec.just-paranoid.net/acta/2020-008/</link>
       <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
@@ -145,6 +132,19 @@ Suggested Reading A list of top rated conferences and journals:
       <description>After last weeks meeting, we decided each meeting we will discuss three papers.
 The agenda:
  A Deep Learning Approach to Network Intrusion Detection Implementing Zero Trust Cloud Networks with Transport Access Control and First Packet Authentication Intelligent Security Measures for Smart Cyber-Physical Systems  </description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://netsec.just-paranoid.net/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsec.just-paranoid.net/about/</guid>
+      <description>An academic reading group focused on network security.
+Remotely held on Jitsi at 20:00UTC every Friday.
+[https] meet.jit.si/netsec  iCalendar Link - So you can add it to your diary.
+Suggested Reading A list of top rated conferences and journals:
+ Passive and Active Measurement Conference Latin-American Conference on Communications International Conference on Networks International Conference on Network Protocols Cyber Security Experimentation and Test Hot Topics in Networks (Proceedings) International Journal of Network Security (Proceedings) International Conference on Security and Privacy in Communication Networks (Proceedings)  For general security news:</description>
     </item>
     
   </channel>

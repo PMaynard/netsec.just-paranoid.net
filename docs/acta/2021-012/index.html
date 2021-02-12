@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta name="description" content="NetSec" />
+	
+	<title>NetSec</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+
+	<style>
+		@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300&display=swap');
+
+		body {
+			font-family: 'Merriweather', serif;
+			max-width: 55ch;
+			margin-left: 7rem;
+			margin-right: auto;
+		}
+		.head {
+			margin-bottom: 0; padding-bottom: 0; 
+		}
+
+		.head a {
+			text-decoration: none;
+		}
+
+		.subhead {
+			vertical-align: middle;
+			font-size: 1rem;
+			margin-top: 0;
+		}
+
+		.menu {
+			text-align: right; 
+			float:right;
+			font-weight: 700;
+		}
+
+		.menu a:hover {
+			color: #D74E45;
+		}
+
+		@media screen and (max-width: 55ch) {
+			body {
+				margin-left: auto;
+				padding-left: 5px;
+			}
+		}
+
+		p {
+			line-height: 1.60;
+		}
+
+		p.meta {
+			 
+		}
+
+		p.meta a {
+			text-decoration-thickness: 1px;
+		}
+
+		a {
+			color: #000;
+			text-decoration: underline;
+			text-decoration-color: #D74E45;
+		}
+
+		p a {
+			text-decoration-thickness: 3px;
+		}
+
+		hr { 
+			border: none;
+			color: #D74E45;
+			background-color: #D74E45;
+			height: 2px;
+			width: 20%;
+		}
+
+		blockquote {
+			color: gray;
+		}
+	</style>
+
+
+</head>
+
+<body>
+<div class="head subhead menu">
+			<a href="/">Home</a> &#8226; <a href="/about">About</a>
+		</div>
+<div class="head">
+	<a href='/'>
+		<h1>NetSec <span class="subhead">◬ est. February 2019.</span></h1>
+	</a>
+</div>
+
+
+
+<h1 class="title"><a href="https://netsec.just-paranoid.net/acta/2021-012/">Acta #012</a></h1>
+<p class="meta">
+	<p class="meta">
+		2021 February 5
+		<br > 
+		
+			  (<a href="/tags/FreeBSD">FreeBSD</a>)  (<a href="/tags/Checked%20C">Checked C</a>)  (<a href="/tags/SCADA">SCADA</a>)  (<a href="/tags/PLC">PLC</a>)  (<a href="/tags/IEC61499">IEC61499</a>) 
+			
+		
+	</p>
+</p>
+
+<p><strong>Designing Actively Secure, Highly Available Industrial Automation Applications</strong>
+17th International Conference on Industrial Informatics (INDIN2019) [<a href="https://arxiv.org/pdf/2101.01856">PDF</a>]</p>
+<blockquote>
+<p>Programmable Logic Controllers (PLCs) execute critical control software that drives Industrial Automation and Control Systems (IACS). PLCs can become easy targets for cyber-adversaries as they are resource-constrained and are usually built using legacy, less-capable security measures. Security attacks can significantly affect system availability, which is an essential requirement for IACS. We propose a method to make PLC applications more security-aware. Based on the well-known IEC 61499 function blocks standard for developing IACS software, our method allows designers to annotate critical parts of an application during design time. On deployment, these parts of the application are automatically secured using appropriate security mechanisms to detect and prevent attacks. We present a summary of availability attacks on distributed IACS applications that can be mitigated by our proposed method. Security mechanisms are achieved using IEC 61499 Service-Interface Function Blocks (SIFBs) embedding Intrusion Detection and Prevention System (IDPS), added to the application at compile time. This method is more amenable to providing active security protection from attacks on previously unknown (zero-day) vulnerabilities. We test our solution on an IEC 61499 application executing on Wago PFC200 PLCs. Experiments show that we can successfully log and prevent attacks at the application level as well as help the application to gracefully degrade into safe mode, subsequently improving availability.</p>
+</blockquote>
+<p><strong>Refactoring the FreeBSD Kernel with Checked C</strong><br>
+2020 IEEE Secure Development (SecDev) [<a href="https://cs.rochester.edu/u/jzhou41/papers/freebsd_checkedc.pdf">PDF</a>]</p>
+<p>Abstract</p>
+<blockquote>
+<p>Most modern operating system kernels are written in C, making them vulnerable to buffer overflow and buffer over-read attacks. Microsoft has developed an extension to the C language named Checked C which provides new source language constructs that allow the compiler to prevent NULL pointer dereferences and spatial memory safety errors through static analysis and run-time check insertion. We evaluate the use of Checked C on operating system kernel code by refactoring parts of the FreeBSD kernel to use Checked C extensions. We describe our experience refactoring the code that implements system calls and UDP and IP networking. We then evaluate the refactoring effort and the performance of the refactored kernel. It took two undergraduate students approximately three months to refactor the system calls, the network packet (mbuf) utility routines, and parts of the IP and UDP processing code. Our experiments show that using Checked C incurred no performance or code size overheads.</p>
+</blockquote>
+
+
+<hr style="width: 100%">
+<p style="text-align: center">Last Updated on 12 Feb 2021 (CC BY-SA 4.0)</p>
+</body>
+</html>

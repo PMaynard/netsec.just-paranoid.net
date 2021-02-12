@@ -104,11 +104,6 @@
   </url>
   
   <url>
-    <loc>https://netsec.just-paranoid.net/about/</loc>
-    <lastmod>2020-12-28T23:26:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://netsec.just-paranoid.net/acta/2020-008/</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
   </url>
@@ -199,7 +194,7 @@
   </url>
   
   <url>
-    <loc>https://netsec.just-paranoid.net/tags/randomware/</loc>
+    <loc>https://netsec.just-paranoid.net/tags/ransomware/</loc>
     <lastmod>2019-07-10T00:00:00+00:00</lastmod>
   </url>
   
@@ -261,6 +256,10 @@
   <url>
     <loc>https://netsec.just-paranoid.net/tags/zero-trust/</loc>
     <lastmod>2019-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://netsec.just-paranoid.net/about/</loc>
   </url>
   
   <url>

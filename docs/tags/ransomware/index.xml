@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ransomware on NetSec</title>
+    <link>https://netsec.just-paranoid.net/tags/ransomware/</link>
+    <description>Recent content in Ransomware on NetSec</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 10 Jul 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://netsec.just-paranoid.net/tags/ransomware/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Acta #004</title>
+      <link>https://netsec.just-paranoid.net/acta/2019-004/</link>
+      <pubDate>Wed, 10 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsec.just-paranoid.net/acta/2019-004/</guid>
+      <description>The agenda:
+ Towards a Cyber Defense Framework for SCADA Systems Based on Power Consumption Monitoring Situational Awareness for security adaptation in Industrial Control Systems A Multi-Classifier Network-Based Crypto Ransomware Detection System: A Case Study of Locky Ransomware  </description>
+    </item>
+    
+  </channel>
+</rss>

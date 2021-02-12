@@ -1,10 +1,12 @@
 ---
 title: About
-date: 2020-12-28T23:26:00Z
+<!-- date: 2020-12-28T23:26:00Z -->
 ---
 
 An academic reading group focused on network security.  
-Remotely held on Google Meet at **19:00UTC every Friday**. 
+Remotely held on Jitsi at **20:00UTC every Friday**. 
+
+	[https] meet.jit.si/netsec
 
 [iCalendar Link](https://calendar.google.com/calendar/ical/rmsrt5btdtaasle1al5682mvqk%40group.calendar.google.com/public/basic.ics) - So you can add it to your diary.
 
@@ -20,5 +22,9 @@ A list of top rated conferences and journals:
 - [Hot Topics in Networks](http://www.sigcomm.org/events/hotnets-workshop)                                      ([Proceedings](https://dblp.uni-trier.de/db/conf/hotnets/index.html))
 - International Journal of Network Security                                                                     ([Proceedings](https://dblp.uni-trier.de/db/journals/ijnsec/))
 - [International Conference on Security and Privacy in Communication Networks](http://www.securecomm.org/)      ([Proceedings](https://dblp.uni-trier.de/db/conf/securecomm/))
+
+For general security news: 
+
+- [Port22 News Feed](https://port22.co.uk)
 
 This is a work in progress and is regularly updated.

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PLC on NetSec</title>
+    <link>https://netsec.just-paranoid.net/tags/plc/</link>
+    <description>Recent content in PLC on NetSec</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 05 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://netsec.just-paranoid.net/tags/plc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Acta #012</title>
+      <link>https://netsec.just-paranoid.net/acta/2021-012/</link>
+      <pubDate>Fri, 05 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsec.just-paranoid.net/acta/2021-012/</guid>
+      <description>Designing Actively Secure, Highly Available Industrial Automation Applications 17th International Conference on Industrial Informatics (INDIN2019) [PDF]
+ Programmable Logic Controllers (PLCs) execute critical control software that drives Industrial Automation and Control Systems (IACS). PLCs can become easy targets for cyber-adversaries as they are resource-constrained and are usually built using legacy, less-capable security measures. Security attacks can significantly affect system availability, which is an essential requirement for IACS. We propose a method to make PLC applications more security-aware.</description>
+    </item>
+    
+  </channel>
+</rss>
