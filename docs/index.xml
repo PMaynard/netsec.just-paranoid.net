@@ -6,7 +6,19 @@
     <description>Recent content on NetSec</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 12 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://netsec.just-paranoid.net/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 19 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://netsec.just-paranoid.net/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Acta #014</title>
+      <link>https://netsec.just-paranoid.net/acta/2021-014/</link>
+      <pubDate>Fri, 19 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsec.just-paranoid.net/acta/2021-014/</guid>
+      <description>CADE: Detecting and Explaining Concept Drift Samples for Security Applications
+USENIX Security &amp;lsquo;21 [PDF, INFO]
+ Concept drift poses a critical challenge to deploy machine learning models to solve practical security problems. Due to the dynamic behavior changes of attackers (and/or the benign counterparts), the testing data distribution is often shifting from the original training data over time, causing major failures to the deployed model.
+To combat concept drift, we present a novel system CADE aiming to 1) detect drifting samples that deviate from existing classes, and 2) provide explanations to reason the detected drift.</description>
+    </item>
+    
     <item>
       <title>Acta #013</title>
       <link>https://netsec.just-paranoid.net/acta/2021-013/</link>

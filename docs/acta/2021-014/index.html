@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta name="description" content="NetSec" />
+	
+	<title>NetSec</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+
+	<style>
+		@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300&display=swap');
+
+		body {
+			font-family: 'Merriweather', serif;
+			max-width: 55ch;
+			margin-left: 7rem;
+			margin-right: auto;
+		}
+		.head {
+			margin-bottom: 0; padding-bottom: 0; 
+		}
+
+		.head a {
+			text-decoration: none;
+		}
+
+		.subhead {
+			vertical-align: middle;
+			font-size: 1rem;
+			margin-top: 0;
+		}
+
+		.menu {
+			text-align: right; 
+			float:right;
+			font-weight: 700;
+		}
+
+		.menu a:hover {
+			color: #D74E45;
+		}
+
+		@media screen and (max-width: 55ch) {
+			body {
+				margin-left: auto;
+				padding-left: 5px;
+			}
+		}
+
+		p {
+			line-height: 1.60;
+		}
+
+		p.meta {
+			 
+		}
+
+		p.meta a {
+			text-decoration-thickness: 1px;
+		}
+
+		a {
+			color: #000;
+			text-decoration: underline;
+			text-decoration-color: #D74E45;
+		}
+
+		p a {
+			text-decoration-thickness: 3px;
+		}
+
+		hr { 
+			border: none;
+			color: #D74E45;
+			background-color: #D74E45;
+			height: 2px;
+			width: 20%;
+		}
+
+		blockquote {
+			color: gray;
+		}
+	</style>
+
+
+</head>
+
+<body>
+<div class="head subhead menu">
+			<a href="/">Home</a> &#8226; <a href="/about">About</a>
+		</div>
+<div class="head">
+	<a href='/'>
+		<h1>NetSec <span class="subhead">◬ est. February 2019.</span></h1>
+	</a>
+</div>
+
+
+
+<h1 class="title"><a href="https://netsec.just-paranoid.net/acta/2021-014/">Acta #014</a></h1>
+<p class="meta">
+	<p class="meta">
+		2021 February 19
+		<br > 
+		
+			  (<a href="/tags/IOT">IOT</a>)  (<a href="/tags/Linux">Linux</a>)  (<a href="/tags/Machine%20Learning">Machine Learning</a>) 
+			
+		
+	</p>
+</p>
+
+<p><strong>CADE: Detecting and Explaining Concept Drift Samples for Security Applications</strong><br>
+USENIX Security &lsquo;21 [<a href="https://www.usenix.org/system/files/sec21summer_yang.pdf">PDF</a>, <a href="https://www.usenix.org/conference/usenixsecurity21/presentation/yang">INFO</a>]</p>
+<blockquote>
+<p>Concept drift poses a critical challenge to deploy machine learning models to solve practical security problems. Due to the dynamic behavior changes of attackers (and/or the benign counterparts), the testing data distribution is often shifting from the original training data over time, causing major failures to the deployed model.</p>
+<p>To combat concept drift, we present a novel system CADE aiming to 1) detect drifting samples that deviate from existing classes, and 2) provide explanations to reason the detected drift. Unlike traditional approaches (that require a large number of new labels to determine concept drift statistically), we aim to identify individual drifting samples as they arrive. Recognizing the challenges introduced by the high-dimensional outlier space, we propose to map the data samples into a low-dimensional space and automatically learn a distance function to measure the dissimilarity between samples. Using contrastive learning, we can take full advantage of existing labels in the training dataset to learn how to compare and contrast pairs of samples. To reason the meaning of the detected drift, we develop a distance-based explanation method. We show that explaining &ldquo;distance&rdquo; is much more effective than traditional methods that focus on explaining a &ldquo;decision boundary&rdquo; in this problem context. We evaluate CADE with two case studies: Android malware classification and network intrusion detection. We further work with a security company to test CADE on its malware database. Our results show that CADE can effectively detect drifting samples and provide semantically meaningful explanations.</p>
+</blockquote>
+<p><strong>Home Router Security Report 2020</strong><br>
+Fraunhofer-Institut für Kommunikation, Informationsverarbeitung und Ergonomie, FKIE
+[<a href="https://www.fkie.fraunhofer.de/content/dam/fkie/de/documents/HomeRouter/HomeRouterSecurity_2020_Bericht.pdf">PDF</a>]</p>
+<blockquote>
+<p>This report analyses 127 current routers for private use developed by seven different large vendors selling their products in Europe.  An automated approach was used to check the router’s most recent firmware versions for five security related aspects. We were able to extract completely 117 of the 127 firmware images. Four firmware images could be extracted partly and six firmware images could not be extracted at all. 116 of 127 (91%) devices are powered by Linux. One was powered by ThreadX and another one by eCos. The security aspects addressed in this report are:</p>
+<ul>
+<li>When were the devices updated last time?</li>
+<li>Which  operating  system  versions  are  used  and  how  many  known  critical vulnerabilities affect these operating system versions?</li>
+<li>Which exploit mitigation techniques do the vendors use? How often do they activate these techniques?</li>
+<li>Do the firmware images contain private cryptographic key material?</li>
+<li>Are there any hard-coded login credentials?</li>
+</ul>
+<p>Our results are alarming. There is no router without flaws. 46 routers did not get any security up-date within the last year. Many routers are affected by hundreds of known vulnerabilities. Even if the routers got recent updates, many of these known vulnerabilities were not fixed. What makes matters even worse is that exploit mitigation techniques are used rarely. Some routers have easy crackable or even well known passwords that cannot be changed by the user.  Most firmware images provide private cryptographic key material. This means, whatever they try to secure with a public-private crypto mechanism is not secure at all. Nonetheless,  vendors seem to prioritize security differently.  Especially AVM does a better job than the other vendors regarding most of the security aspects.  However, AVM routers are not flawless as well. ASUS and Netgear do a better job on some aspects than D-Link, Linksys, TP-Linkand Zyxel.To sum it up, much more effort is needed to make home routers as secure as current desktop or server systems. Additionally, our evaluation showed that large scale automated security analysis of embedded devices is possible today. We used the the <a href="https://fkie-cad.github.io/FACT_core/">Firmware Analysis and Comparison Tool (FACT)</a> and it worked very well for almost all firmware images analyzed during this study.  FACT is an opensource software <a href="https://github.com/fkie-cad/FACT_core">available on GitHub</a></p>
+</blockquote>
+
+
+<hr style="width: 100%">
+<p style="text-align: center">Last Updated on 19 Feb 2021 (CC BY-SA 4.0)</p>
+</body>
+</html>
