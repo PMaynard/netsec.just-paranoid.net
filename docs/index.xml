@@ -6,7 +6,18 @@
     <description>Recent content on NetSec</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 19 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://netsec.just-paranoid.net/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 26 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://netsec.just-paranoid.net/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Acta #015</title>
+      <link>https://netsec.just-paranoid.net/acta/2021-015/</link>
+      <pubDate>Fri, 26 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsec.just-paranoid.net/acta/2021-015/</guid>
+      <description>The CNAME of the Game: Large-scale Analysis of DNS-based Tracking Evasion
+Privacy Enhancing Technologies 2021 [PDF, INFO]
+ Online tracking is a whack-a-mole game between trackers who build and monetize behavioral user profiles through intrusive data collection, and anti-tracking mechanisms, deployed as a browser extension, built-in to the browser, or as a DNS resolver. As a response to pervasive and opaque online tracking, more and more users adopt anti-tracking tools to preserve their privacy.</description>
+    </item>
+    
     <item>
       <title>Acta #014</title>
       <link>https://netsec.just-paranoid.net/acta/2021-014/</link>
