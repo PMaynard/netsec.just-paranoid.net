@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DNS on NetSec</title>
+    <link>https://netsec.just-paranoid.net/tags/dns/</link>
+    <description>Recent content in DNS on NetSec</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 26 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://netsec.just-paranoid.net/tags/dns/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Acta #015</title>
+      <link>https://netsec.just-paranoid.net/acta/2021-015/</link>
+      <pubDate>Fri, 26 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsec.just-paranoid.net/acta/2021-015/</guid>
+      <description>The CNAME of the Game: Large-scale Analysis of DNS-based Tracking Evasion
+Privacy Enhancing Technologies 2021 [PDF, INFO]
+ Online tracking is a whack-a-mole game between trackers who build and monetize behavioral user profiles through intrusive data collection, and anti-tracking mechanisms, deployed as a browser extension, built-in to the browser, or as a DNS resolver. As a response to pervasive and opaque online tracking, more and more users adopt anti-tracking tools to preserve their privacy.</description>
+    </item>
+    
+  </channel>
+</rss>

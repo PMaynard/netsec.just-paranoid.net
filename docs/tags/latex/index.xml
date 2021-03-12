@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LaTeX on NetSec</title>
+    <link>https://netsec.just-paranoid.net/tags/latex/</link>
+    <description>Recent content in LaTeX on NetSec</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 12 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://netsec.just-paranoid.net/tags/latex/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Acta #017</title>
+      <link>https://netsec.just-paranoid.net/acta/2021-017/</link>
+      <pubDate>Fri, 12 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsec.just-paranoid.net/acta/2021-017/</guid>
+      <description>Can You Accept LaTeX Files from Strangers? Ten Years Later
+(preprint) Cryptography and Security (cs.CR) 2021 [PDF, INFO]
+ It is well-known that Microsoft Word/Excel compatible documents or PDF files can contain malicious content. LaTeX files are unfortunately no exception either. LaTeX users often include third-party codes through sources or packages (.sty or .cls files). But those packages can execute malicious commands on the users&#39; system, in order to capture sensitive information or to perform denial of service attacks.</description>
+    </item>
+    
+  </channel>
+</rss>
