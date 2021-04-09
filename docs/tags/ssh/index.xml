@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SSH on NetSec</title>
+    <link>https://netsec.just-paranoid.net/tags/ssh/</link>
+    <description>Recent content in SSH on NetSec</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 09 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://netsec.just-paranoid.net/tags/ssh/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Acta #018</title>
+      <link>https://netsec.just-paranoid.net/acta/2021-018/</link>
+      <pubDate>Fri, 09 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsec.just-paranoid.net/acta/2021-018/</guid>
+      <description>Secure (S)Hell: Introducing an SSH Deception Proxy Framework
+(preprint) Cryptography and Security (cs.CR) 2021 [PDF, INFO]
+ Deceiving an attacker in the network security domain is a well established approach, mainly achieved through deployment of honeypots consisting of open network ports with the sole purpose of raising an alert on a connection. With attackers becoming more careful to avoid honeypots, other decoy elements on real host systems continue to create uncertainty for attackers.</description>
+    </item>
+    
+  </channel>
+</rss>
